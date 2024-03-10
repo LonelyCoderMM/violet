@@ -1,47 +1,63 @@
 {
-	"slide_ads": [
-		"https://raw.githubusercontent.com/LonelyCoderMM/violet/main/images/Logo-1-1024x630.jpg",
-		"https://raw.githubusercontent.com/LonelyCoderMM/violet/main/images/photo_2024-03-03_21-14-54-1024x723.jpg"
-	],
-	"images": [
-		"https://raw.githubusercontent.com/LonelyCoderMM/violet/main/images/Logo-1-1024x630.jpg",
-		"https://raw.githubusercontent.com/LonelyCoderMM/violet/main/images/photo_2024-03-03_21-14-54-1024x723.jpg"
-	],
-	"youtube": "https://youtube.com",
-	"facebook": "https://facebook.com",
-	"telegram": "https://t.me/",
-	"files": [
-		{
-			"name": "",
-			"link": ""
-		}
-	],
-	"service_contact": [
-		{
-			"operator": "Telenor",
-			"number": "09-775588392"
-		},
-		{
-			"operator": "MPT",
-			"number": "09-775588392"
-		}
-	],
-	"pricing": [
-		{
-			"product_name": "MI7- Remote Version",
-			"price": "715000"
-		},
-		{
-			"product_name": "Mi7-10Tablet Vesion",
-			"price": "1138000"
-		},
-		{
-			"product_name": "MI7-Touh Version",
-			"price": "1357000"
-		},
-		{
-			"product_name": "MI7- All Version",
-			"price": "1750000"
-		}
-	]
+  "slide_ads": [
+    "https://raw.githubusercontent.com/LonelyCoderMM/violet/main/images/Logo-1-1024x630.jpg",
+    "https://raw.githubusercontent.com/LonelyCoderMM/violet/main/images/photo_2024-03-03_21-14-54-1024x723.jpg"
+  ],
+  "images": [
+    "https://raw.githubusercontent.com/LonelyCoderMM/violet/main/images/Logo-1-1024x630.jpg",
+    "https://raw.githubusercontent.com/LonelyCoderMM/violet/main/images/photo_2024-03-03_21-14-54-1024x723.jpg"
+  ],
+  "youtube": "https://youtube.com",
+  "facebook": "https://facebook.com",
+  "telegram": "https://t.me/",
+  "files": [
+    {
+      "name": "MI7 Download APK",
+      "link": "https://github.com/LonelyCoderMM/violet/raw/main/files/MI7_Tablet(V7.1.2).apk"
+    },
+    {
+      "name": "MI5 Download APK",
+      "link": "https://github.com/LonelyCoderMM/violet/raw/main/files/MI5Droid(5.1.2).apk"
+    },
+    {
+      "name": "MI7 Laptop Version",
+      "link": "https://github.com/LonelyCoderMM/violet/raw/main/files/MI7(7.1.2)ForWin10.zip"
+    },
+    {
+      "name": "MI7 Windows Driver",
+      "link": "https://github.com/LonelyCoderMM/violet/raw/main/files/MI7_DATA.zip"
+    },
+    {
+      "name": "RamDisk Windows",
+      "link": "https://github.com/LonelyCoderMM/violet/raw/main/files/RamDisk3.4.8_setup.exe"
+    }
+  ],
+  "service_contact": [
+    {
+      "operator": "Telenor",
+      "number": "09-775588392"
+    },
+    {
+      "operator": "MPT",
+      "number": "09-775588392"
+    }
+  ],
+  "pricing": [
+    {
+      "product_name": "MI7- Remote Version",
+      "price": "715000"
+    },
+    {
+      "product_name": "Mi7-10Tablet Vesion",
+      "price": "1138000"
+    },
+    {
+      "product_name": "MI7-Touh Version",
+      "price": "1357000"
+    },
+    {
+      "product_name": "MI7- All Version",
+      "price": "1750000"
+    }
+  ]
 }
