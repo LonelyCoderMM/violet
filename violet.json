@@ -1,9 +1,15 @@
 {
-	"slide_ads": [],
-	"images": [],
-	"youtube": "",
-	"facebook": "",
-	"telegram": "",
+	"slide_ads": [
+		"https://raw.githubusercontent.com/LonelyCoderMM/violet/main/images/Logo-1-1024x630.jpg",
+		"https://raw.githubusercontent.com/LonelyCoderMM/violet/main/images/photo_2024-03-03_21-14-54-1024x723.jpg"
+	],
+	"images": [
+		"https://raw.githubusercontent.com/LonelyCoderMM/violet/main/images/Logo-1-1024x630.jpg",
+		"https://raw.githubusercontent.com/LonelyCoderMM/violet/main/images/photo_2024-03-03_21-14-54-1024x723.jpg"
+	],
+	"youtube": "https://youtube.com",
+	"facebook": "https://facebook.com",
+	"telegram": "https://t.me/",
 	"files": [
 		{
 			"name": "",
@@ -12,14 +18,30 @@
 	],
 	"service_contact": [
 		{
-			"operator": "",
-			"number": ""
+			"operator": "Telenor",
+			"number": "09-775588392"
+		},
+		{
+			"operator": "MPT",
+			"number": "09-775588392"
 		}
 	],
 	"pricing": [
 		{
-			"product_name": "",
-			"price": ""
+			"product_name": "MI7- Remote Version",
+			"price": "715000"
+		},
+		{
+			"product_name": "Mi7-10Tablet Vesion",
+			"price": "1138000"
+		},
+		{
+			"product_name": "MI7-Touh Version",
+			"price": "1357000"
+		},
+		{
+			"product_name": "MI7- All Version",
+			"price": "1750000"
 		}
 	]
 }
