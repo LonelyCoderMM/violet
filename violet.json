@@ -36,12 +36,12 @@
   "contact_person": "Ko Tin Hlaing Win",
   "service_contact": [
     {
-      "operator": "Telenor",
-      "number": "09-775588392"
+      "operator": "MPT",
+      "number": "09401602088"
     },
     {
-      "operator": "MPT",
-      "number": "09-775588392"
+      "operator": "Telenor",
+      "number": "09775588392"
     }
   ],
   "pricing": [
@@ -50,7 +50,7 @@
       "price": "715000"
     },
     {
-      "product_name": "Mi7-10Tablet Vesion",
+      "product_name": "MI7-10Tablet Vesion",
       "price": "1138000"
     },
     {
